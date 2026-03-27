@@ -1907,7 +1907,7 @@ selected = option_menu(
 if selected == "Home":
     st.title("Welcome to the Phone_Pe")
     st.write("Best Payments App.")
-    st.write("Your Day to Day Companion")
+    st.write("Your Daily Companion")
     
     
 
